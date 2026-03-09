@@ -2,6 +2,8 @@
 
 * just copy the baidu disk link to pasteboard or copy the url and password to the application, auto parse direct link to download, support thunder、folx、wget etc download tools.
 
+* As of 2026,  use https://baidu.erranium.com
+
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fpuutteedlj306v09aju2.jpg)
 
 
